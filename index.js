@@ -25,6 +25,7 @@ function addNewLiOnClick() {
   
   document.addEventListener('click', function() {
     input.value = '';
+    addNewElementAsLi();
   });
 }
 
