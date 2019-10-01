@@ -9,17 +9,17 @@ preventRefreshOnSubmit()
 
 
 function retrieveEmployeeInformation() {
-  return 'AAAAAAHHHHHHHHHHHHHHHH!!!!!!!!! NOOOOOOOOOO!!!!!!!!!!';
+  return $()
 }
 
 function addNewElementAsLi() {
-  return 'AAAAAAHHHHHHHHHHHHHHHH!!!!!!!!! NOOOOOOOOOO!!!!!!!!!!';
+  
 }
 
 function addNewLiOnClick() {
-  return 'AAAAAAHHHHHHHHHHHHHHHH!!!!!!!!! NOOOOOOOOOO!!!!!!!!!!';
+  
 }
 
 function clearEmployeeListOnLinkClick() {
-  return 'AAAAAAHHHHHHHHHHHHHHHH!!!!!!!!! NOOOOOOOOOO!!!!!!!!!!';
+  
 }
