@@ -22,6 +22,7 @@ function addNewElementAsLi() {
 
 function addNewLiOnClick() {
   let input = document.querySelector('input');
+  let s = document.querySelector('input:last');
   
   document.addEventListener('click', function() {
     addNewElementAsLi();
