@@ -9,7 +9,7 @@ preventRefreshOnSubmit()
 
 
 function retrieveEmployeeInformation() {
-  return $('input:first-child').value;
+  return document.querySelector('input').value;
 }
 
 function addNewElementAsLi() {
