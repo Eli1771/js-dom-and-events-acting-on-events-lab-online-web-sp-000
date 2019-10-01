@@ -13,7 +13,7 @@ function retrieveEmployeeInformation() {
 }
 
 function addNewElementAsLi() {
-  
+  let list = document.querySelector('.employee-list');
 }
 
 function addNewLiOnClick() {
