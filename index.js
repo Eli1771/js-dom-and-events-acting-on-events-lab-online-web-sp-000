@@ -30,5 +30,9 @@ function addNewLiOnClick() {
 }
 
 function clearEmployeeListOnLinkClick() {
+  let list = document.querySelector('ul.employee-list');
   
+  for (let i = 0; i < list.children.length; i++) {
+    list.children.remove();
+  }
 }
